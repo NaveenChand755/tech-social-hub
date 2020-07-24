@@ -6,7 +6,7 @@ This is a simple social media like application build using MERN( Mongo DB, Expre
 1. A user can register and Login 
 2. A user can add his profile information like his current employment , skills and his education and also can add his experience
 3. User can view others profiles who have registered in the application
-4. User can add posts and also can like and commit on the others posts
+4. User can add posts and also can like and comment on the others posts
 5. Application also uses a github third party API which pulls in the users github information on entering is github user name
 
 # Project Structure
