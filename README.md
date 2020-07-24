@@ -1,6 +1,6 @@
 # tech-social-hub
 
-This is a simple social media like application build using MERN( Mongo DB, Express , React , Nodejs ) stack and Redux for state management . and Redux thunk is used as the middleware . 
+This is a simple social media like application build using MERN( Mongo DB, Express , React , Nodejs ) stack and Redux for state management and Redux thunk as the middleware . 
 
 # what application contains ???
 1. A user can register and Login 
