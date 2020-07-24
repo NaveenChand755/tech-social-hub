@@ -1,0 +1,6 @@
+{
+    "mongoURI":  "mongodb+srv://Naveen:Naveen123@cluster0.eetr5.mongodb.net/<test>?retryWrites=true&w=majority",
+    "jwtToken": "my secret token",
+    "githubClientId": "342b205c31c1090e0b14",
+    "githubSecretKey":"34b4b27355a5a5a10b817dae24ea7ebbb3af6506"
+}
